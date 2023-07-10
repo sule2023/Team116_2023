@@ -2,7 +2,7 @@ package ornekSorular;
 
 import java.util.Scanner;
 
-public class C04_if_Else_istanbul_kart_gecis {
+public class C04_If_Else_istanbul_kart_gecis {
     public static void main(String[] args) {
         /*
         soru: kullanicadan kart turu

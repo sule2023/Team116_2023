@@ -2,7 +2,7 @@ package ornekSorular;
 
 import java.util.Arrays;
 
-public class CO3_ikikatmanli_Arrays {
+public class C06_ikikatmanli_Arrays {
 
 
         public static void main(String[] args) {

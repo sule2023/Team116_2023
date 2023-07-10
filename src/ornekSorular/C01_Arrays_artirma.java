@@ -2,7 +2,7 @@ package ornekSorular;
 
 import java.util.Arrays;
 
-public class CO1_Arrays_artirma {
+public class C01_Arrays_artirma {
     public static void main(String[] args) {
         //Verilen bir int array’in tum elemanlarini 2 artirip bize donduren bir method
         //olusturun. Eski array’i yeni haliyle kaydedin.
